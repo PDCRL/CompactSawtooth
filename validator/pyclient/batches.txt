@@ -1,0 +1,6 @@
+deposit 1000 a1
+deposit 1000 a2
+deposit 1000 a3
+deposit 1000 a4
+deposit 1000 a5
+deposit 1000 a6
